@@ -47,24 +47,7 @@ I am seeking an **Assistant Professorship** to build the **[Translational Comput
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShabanAhmad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&title_color=2E8B57&icon_color=2E8B57" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabanAhmad&layout=compact&hide_border=true&theme=default&title_color=2E8B57&langs_count=6" width="38%"/>
-
-<img src="https://streak-stats.demolab.com?user=ShabanAhmad&hide_border=true&ring=2E8B57&fire=E9711C&currStreakLabel=2E8B57" width="55%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShabanAhmad&theme=flat&no-frame=true&column=6&margin-w=8" width="90%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShabanAhmad&color=2E8B57&line=2E8B57&point=E9711C&area=true&hide_border=true&bg_color=ffffff" width="95%"/>
-
-</div>
-
----
-
 ## Repositories
-
-### Personal
 
 | Repository | Description |
 |---|---|
@@ -73,38 +56,7 @@ I am seeking an **Assistant Professorship** to build the **[Translational Comput
 | [ChEMBL_LungCancer-BioAssays](https://github.com/ShabanAhmad/ChEMBL_LungCancer-BioAssays) | Python pipeline for ChEMBL bioassay data analysis and FEDPN polypharmacology against lung cancer |
 | [PubChem_LungCancer-BioAssay](https://github.com/ShabanAhmad/PubChem_LungCancer-BioAssay) | Plotting and analysis scripts for PubChem BioAssay lung cancer manuscript |
 | [RMSD-RMSF-Plots](https://github.com/ShabanAhmad/RMSD-RMSF-Plots) | Scripts for MD trajectory visualisation (RMSD / RMSF) |
-
-### Research Group — [KU-MGB](https://github.com/KU-MGB)
-
-| Repository | Description |
-|---|---|
-| [DeFluorX](https://github.com/KU-MGB/DeFluorX) | AI-driven discovery of fluoroacetate dehalogenases (FAcDs) for PFAS defluorination |
-| [HADeFluorX](https://github.com/KU-MGB/HADeFluorX) | Haloacid dehalogenase (HAD) screening pipeline, physics-aware and UniProt-ID-driven |
-| [GenDeFluorX](https://github.com/KU-MGB/GenDeFluorX) | Generalised defluorination enzyme discovery framework |
-| [KU-MGB.github.io](https://github.com/KU-MGB/KU-MGB.github.io) | Group website and result dashboards |
-
----
-
-## Selected Awards
-
-| Award | Year |
-|---|---|
-| 🥇 **Top 2% Stanford/Elsevier World Scientists** — AI Drug Discovery and Computational Genomics | 2025, 2026 |
-| 🎖️ **Felicitated by Vice Chancellor**, Jamia Millia Islamia | 2025 |
-| 🏅 **Achievers of the Year** — University Registrar and Provost, JMI | 2025 |
-| 🥇 **Best Presentation** — 3rd Int. Electronic Conference on Cancers, MDPI | 2023 |
-| 🥇 **Best Presentation** — 21st Int. Conference on Bioinformatics (InCoB), KAUST | 2022 |
-| 🏅 **DBT-Studentship Fellowship** — ICAR-IARI | 2020 |
-| 🥇 **Best Oral Presentation** — Interdisciplinary Science Conference, JMI | 2019 |
-
----
-
-## Selected Publications
-
-Full list: [Google Scholar](https://scholar.google.com/citations?user=Bv4nV80AAAAJ&hl=en) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219487288) · [Web of Science](https://www.webofscience.com/wos/author/record/2415769) · [ResearchGate](https://www.researchgate.net/profile/Shaban-Ahmad-2)
-
-- **DrLungker** — Deep Ensemble Learning for Anti-Lung Cancer Compound Activity · *Adv. Theory & Simul.* 2025 · [DOI](https://doi.org/10.1002/adts.202501550) · [Code](https://github.com/ShabanAhmad/DrLungker)
-- **Mechanism-guided FAcD Discovery for PFAS Defluorination** · *bioRxiv* 2026 · [DOI](https://doi.org/10.64898/2026.10.11.758284) · [Code](https://github.com/KU-MGB/DeFluorX)
-- **FEDPN Polypharmacology** against Lung Cancer EGFR, ALK, TrkA and KRAS · *Int. J. Biol. Macromol.* 2025 · [DOI](https://doi.org/10.1016/j.ijbiomac.2025.141703)
-- **SARS-CoV-2 Variants Declining Pathogenicity** — Minimal Genome Approach · *Inflammation* 2022 · [DOI](https://doi.org/10.1007/s10753-022-01734-w)
-- **Rice Chloroplast Mutational Phylogenomics** — Echinochloa oryzicola as progenitor · *Genet. Res. Crop Evol.* 2023 · [DOI](https://doi.org/10.1007/s10722-022-01471-x)
+| [DeFluorX](https://github.com/KU-MGB/DeFluorX) | AI-driven discovery of fluoroacetate dehalogenases (FAcDs) for PFAS defluorination · [KU-MGB](https://github.com/KU-MGB) |
+| [HADeFluorX](https://github.com/KU-MGB/HADeFluorX) | Haloacid dehalogenase (HAD) screening pipeline, physics-aware and UniProt-ID-driven · [KU-MGB](https://github.com/KU-MGB) |
+| [GenDeFluorX](https://github.com/KU-MGB/GenDeFluorX) | Generalised defluorination enzyme discovery framework · [KU-MGB](https://github.com/KU-MGB) |
+| [KU-MGB.github.io](https://github.com/KU-MGB/KU-MGB.github.io) | Group website and result dashboards · [KU-MGB](https://github.com/KU-MGB) |
