@@ -56,6 +56,7 @@ I am seeking an **Assistant Professorship** to build the **[Translational Comput
 | [ChEMBL_LungCancer-BioAssays](https://github.com/ShabanAhmad/ChEMBL_LungCancer-BioAssays) | Python pipeline for ChEMBL bioassay data analysis and FEDPN polypharmacology against lung cancer |
 | [PubChem_LungCancer-BioAssay](https://github.com/ShabanAhmad/PubChem_LungCancer-BioAssay) | Plotting and analysis scripts for PubChem BioAssay lung cancer manuscript |
 | [RMSD-RMSF-Plots](https://github.com/ShabanAhmad/RMSD-RMSF-Plots) | Scripts for MD trajectory visualisation (RMSD / RMSF) |
+| [LUNGXAI](https://github.com/SyeddNaseer/LUNGXAI) | 1D CNN with LIME-based explainability for multi-class lung cancer classification from gene expression data |
 | [DeFluorX](https://github.com/KU-MGB/DeFluorX) | AI-driven discovery of fluoroacetate dehalogenases (FAcDs) for PFAS defluorination · [KU-MGB](https://github.com/KU-MGB) |
 | [HADeFluorX](https://github.com/KU-MGB/HADeFluorX) | Haloacid dehalogenase (HAD) screening pipeline, physics-aware and UniProt-ID-driven · [KU-MGB](https://github.com/KU-MGB) |
 | [GenDeFluorX](https://github.com/KU-MGB/GenDeFluorX) | Generalised defluorination enzyme discovery framework · [KU-MGB](https://github.com/KU-MGB) |
